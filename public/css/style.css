@@ -1,7 +1,7 @@
 :root {
-	--main-bg-color: #edf5fe;
-	--light-blue: #03a9f4;
-	--dark-blue: #028bca;
+	--main-bg-color: #ec9e9e;
+	--light-blue: #ffcaca;
+	--dark-blue: #fa9898;
 }
 
 body {
@@ -16,10 +16,10 @@ body {
 }
 
 .logo {
-	position: absolute;
-	top: 10px;
-	left: 10px;
-	width: 150px;
+  position: absolute;
+  top: -38px;
+  left: 10px;
+  width: 168px;
 }
 section.download {
 	background: #fff;
@@ -56,9 +56,9 @@ section.download {
 }
 
 :root {
-  --main-bg-color: #edf5fe;
-  --light-blue: #03a9f4;
-  --border-color: #0288d147;
+  --main-bg-color: #feeded;
+  --light-blue: #f40303;
+  --border-color: #d1090247;
   --container-width: 500px;
 }
 
@@ -71,9 +71,9 @@ body {
 
 .logo {
   position: absolute;
-  top: 10px;
+  top: -38px;
   left: 10px;
-  width: 150px;
+  width: 168px;
 }
 
 .image-vector {
@@ -157,7 +157,7 @@ body,
 }
 
 #browseBtn {
-  color: #2196f3;
+  color: #f32121;
   cursor: pointer;
 }
 

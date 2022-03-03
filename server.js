@@ -2,6 +2,8 @@ const express = require("express");
 const path = require("path");
 const app = express();
 const cors = require("cors");
+const deleteservice = require("./services/deleteservice");
+deleteservice();
 
 const connectDB = require("./config/db");
 connectDB();
